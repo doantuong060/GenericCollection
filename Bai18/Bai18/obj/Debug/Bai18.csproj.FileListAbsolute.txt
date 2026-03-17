@@ -1,0 +1,7 @@
+E:\C#\BTLTCS\BaiTapGeneric\Bai18\Bai18\bin\Debug\Bai18.exe.config
+E:\C#\BTLTCS\BaiTapGeneric\Bai18\Bai18\bin\Debug\Bai18.exe
+E:\C#\BTLTCS\BaiTapGeneric\Bai18\Bai18\bin\Debug\Bai18.pdb
+E:\C#\BTLTCS\BaiTapGeneric\Bai18\Bai18\obj\Debug\Bai18.csproj.AssemblyReference.cache
+E:\C#\BTLTCS\BaiTapGeneric\Bai18\Bai18\obj\Debug\Bai18.csproj.CoreCompileInputs.cache
+E:\C#\BTLTCS\BaiTapGeneric\Bai18\Bai18\obj\Debug\Bai18.exe
+E:\C#\BTLTCS\BaiTapGeneric\Bai18\Bai18\obj\Debug\Bai18.pdb
