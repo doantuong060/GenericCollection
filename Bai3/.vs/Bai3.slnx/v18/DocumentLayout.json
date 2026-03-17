@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\C#\\BTLTCS\\BaiTapGeneric\\Bai3\\",
+  "WorkspaceRootPath": "E:\\C#\\BTLTCS\\GenericCollection\\Bai3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E804AF1F-6E96-4813-83AC-16B0E96C5778}|Bai3\\Bai3.csproj|e:\\c#\\btltcs\\baitapgeneric\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E804AF1F-6E96-4813-83AC-16B0E96C5778}|Bai3\\Bai3.csproj|e:\\c#\\btltcs\\genericcollection\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E804AF1F-6E96-4813-83AC-16B0E96C5778}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\BTLTCS\\BaiTapGeneric\\Bai3\\Bai3\\Program.cs",
+              "DocumentMoniker": "E:\\C#\\BTLTCS\\GenericCollection\\Bai3\\Bai3\\Program.cs",
               "RelativeDocumentMoniker": "Bai3\\Program.cs",
-              "ToolTip": "E:\\C#\\BTLTCS\\BaiTapGeneric\\Bai3\\Bai3\\Program.cs",
+              "ToolTip": "E:\\C#\\BTLTCS\\GenericCollection\\Bai3\\Bai3\\Program.cs",
               "RelativeToolTip": "Bai3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T14:34:49.263Z",
               "EditorCaption": ""
