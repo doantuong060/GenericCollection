@@ -1,0 +1,7 @@
+E:\C#\BTLTCS\BaiTapGeneric\Bai7\Bai7\bin\Debug\Bai7.exe.config
+E:\C#\BTLTCS\BaiTapGeneric\Bai7\Bai7\bin\Debug\Bai7.exe
+E:\C#\BTLTCS\BaiTapGeneric\Bai7\Bai7\bin\Debug\Bai7.pdb
+E:\C#\BTLTCS\BaiTapGeneric\Bai7\Bai7\obj\Debug\Bai7.csproj.AssemblyReference.cache
+E:\C#\BTLTCS\BaiTapGeneric\Bai7\Bai7\obj\Debug\Bai7.csproj.CoreCompileInputs.cache
+E:\C#\BTLTCS\BaiTapGeneric\Bai7\Bai7\obj\Debug\Bai7.exe
+E:\C#\BTLTCS\BaiTapGeneric\Bai7\Bai7\obj\Debug\Bai7.pdb
